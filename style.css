@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.product {
+    width: 366px;
+    height: 420px;
+    border-radius: 0 0 0 50px;
+    background-color: #FAF4EF;
+    margin: 100px auto 0;
+    padding: 43px 46px 0 46px;
+}
+.product__title {
+    font-size: 36px;
+    line-height: 100%;
+    font-weight: 400;
+    color: #4B4B4B;
+}
+.product__price {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 100%;
+    color: #737373;
+    margin: 24px 0 36px; 
+}
+.product__img {
+    display: block;
+    width: 231.13px;
+    Height: 285px;
+    margin: 0 auto -35px;
+}
